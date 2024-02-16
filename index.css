@@ -28,9 +28,6 @@ body{
     padding: 5px;
     margin-bottom: 5px;
 }
-.read-more {
-    color: blue;
-}
 @media screen and (max-width: 1000px) {
     .box{
         grid-template-columns: repeat(2, 1fr);
